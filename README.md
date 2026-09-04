@@ -1,26 +1,55 @@
-# 💫 About Me:
-🚀 If it involves data, AI, or keeping systems secure, I’m on it.<br><br>As a Fourth-Year IT student specializing in the intersection of Data Engineering, Cybersecurity, and AI Development, I am dedicated to building robust data pipelines and leveraging Machine Learning to solve complex problems. With a foundational interest in programming and web/game development, I bring a holistic approach to software creation—ensuring systems are not only intelligent and data-informed but also secure and scalable.
+## Ship · learn · repeat
 
+<p><code>codedbyjayr@github:~$ whoami</code></p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=plastic&logo=xamarin&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=plastic&logo=sketchup&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=codedbyjayr&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=codedbyjayr&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=codedbyjayr&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=codedbyjayr&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254470804%3Fu%3D8130f9aedfa6deca30d89242dc7b5c0f33f58a94%26v%3D4&style=terminal" alt="codedbyjayr hero visual" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codedbyjayr&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+**iamjayr** · Frontend or full-stack engineer
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## The current loop
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codedbyjayr&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+> Building useful things and learning in public.
 
----
-[![](https://komarev.com/ghpvc/?username=codedbyjayr&icon=5&color=0)](https://visitcount.itsvg.in)
+- 👥 **0** followers · **1** following
 
+*Small, useful work over vague claims.*
 
+## Things I’m building
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr><td width="32%"><b><a href="https://github.com/codedbyjayr/myimcc-portal">myimcc-portal</a></b></td><td>The IMCC Portal is a Capstone 1 project modernizing workflows for students, faculty, and admins. It serves as a hub bridging academic performance and administrative efficiency through AI integrated features. By embedding intelligence, the portal simplifies scheduling, grading, and data analysis.<br/><sub>JavaScript · 1 stars</sub></td></tr>
+</table>
+
+## Launch notes
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=codedbyjayr&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254470804%3Fu%3D8130f9aedfa6deca30d89242dc7b5c0f33f58a94%26v%3D4" alt="codedbyjayr highlights visual" />
+</p>
+
+<p><b>iamjayr</b> is shipping 12 public projects with 2 stars of proof.</p>
+
+## Signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=codedbyjayr&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254470804%3Fu%3D8130f9aedfa6deca30d89242dc7b5c0f33f58a94%26v%3D4" alt="codedbyjayr stats visual" />
+</p>
+
+<p><code>122 contributions</code> · <code>3 day streak</code></p>
+
+## The shipping calendar
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=codedbyjayr&theme=neon" alt="codedbyjayr contribution activity" />
+</p>
+
+## Work with me
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=codedbyjayr&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254470804%3Fu%3D8130f9aedfa6deca30d89242dc7b5c0f33f58a94%26v%3D4" alt="codedbyjayr social visual" />
+</p>
+
+<a href="https://github.com/codedbyjayr">GitHub</a>
+
+<p align="center"><sub>iamjayr · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
